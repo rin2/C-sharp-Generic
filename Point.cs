@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-// コメント追加
+// コメント追加(2023/5/10)
 namespace Generic
 {
     class Point<T> 
